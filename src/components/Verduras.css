@@ -1,0 +1,4 @@
+.listaFrutas {
+    display: flex;
+    flex-wrap: wrap;
+}

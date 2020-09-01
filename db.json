@@ -1,0 +1,43 @@
+{
+  "frutas": [
+    {
+      "id": 1,
+      "name": "Fresa",
+      "price": 1.2,
+      "image": "./img/fresa.jpg",
+      "description": "Fresa procedente de Huelva"
+    },
+    {
+      "name": "Melocotón",
+      "price": "2.50",
+      "image": "./img/melocoton.jpg",
+      "description": "Melocotones recién llegados de Badajoz, super dulces. ",
+      "id": 2
+    }
+  ],
+  "verduras": [
+    {
+      "id": 1,
+      "name": "Calabacín",
+      "price": 1.2,
+      "image": "./img/calabacin.jpg",
+      "description": "Calabacines frescos como la brisa del mar."
+    },
+    {
+      "name": "Lechuga",
+      "price": "1.34",
+      "image": "./img/lechuga_romana.jpg",
+      "description": "Lechugas verdes como el campo del Guadalquivir.",
+      "id": 2
+    }
+  ],
+  "varios": [
+    {
+      "name": "Aceitunas deshuesadas Jugogsa",
+      "price": "2.50",
+      "image": "./img/aceitunas.jpg",
+      "description": "Aceitunas sin hueso en formato ahorro de 1 kg.",
+      "id": 1
+    }
+  ]
+}

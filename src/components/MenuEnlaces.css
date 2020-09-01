@@ -1,0 +1,22 @@
+.ui.menu .item>img:not(.ui) {
+    display: inline-block;
+    vertical-align: middle;
+    margin: -.3em 0;
+    width: 12em;
+}
+
+.ui.menu .item>a:not(.ui), .ui.menu .item>p:only-child, .ui.menu .text.item>* {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    line-height: 1.3;
+    font-size: larger;
+    color:darkcyan;
+    background-color: aqua;
+    
+}
+
+.busqueda {
+    border-radius: 1.3rem;
+}

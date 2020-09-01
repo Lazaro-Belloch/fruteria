@@ -1,0 +1,61 @@
+.ui centered card {
+    margin-top: auto;
+     }
+    
+         
+      .color{
+         background-color: lightgray;
+         color: black;
+         font-size: 2rem;
+         font-family: 'Courier New', Courier, monospace;
+         text-align: center;
+         text-transform: capitalize;
+         width: auto;
+         height: 3,9rem;
+      }
+     
+     .content {
+         color:black;
+        
+     
+     }
+    
+     
+     .color-bajo{
+         background-color: black;
+         color: white;
+         text-align: center;
+         height: auto;
+         font-size: 1,5rem;
+         height: 2rem;
+        
+     }
+    
+     .verIng {
+         text-align: center;
+     }
+     
+    .image {
+        width: 100%;
+    }
+    
+    .ui.centered.card:first-child {
+        margin-top: 0.75em ;
+    }
+
+    .ui.right.floated.image, .ui.right.floated.images {
+        float: right;
+        margin-right: 0;
+        margin-bottom: 0em;
+        margin-left: 0em;
+    }
+
+    .listaVerduras {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .listaFrutas { 
+        display: flex;
+        flex-wrap: wrap;
+    }
